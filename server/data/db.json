@@ -1,0 +1,243 @@
+{
+  "products": [
+    {
+      "id": "prod-balu",
+      "nameEn": "Balu (Coarse River Sand)",
+      "nameHi": "बालू (मोटी नदी की रेत)",
+      "category": "sand",
+      "categoryEn": "River Sand",
+      "categoryHi": "नदी की बालू",
+      "descEn": "Authentic coarse red/yellow river sand ideal for masonry, plastering, and RCC concrete casting. High bonding strength.",
+      "descHi": "चिनाई, प्लास्टर एवं आरसीसी ढलाई के लिए सर्वोत्तम नदी की बालू। सीमेंट के साथ मजबूत पकड़।",
+      "price": 55,
+      "unit": "CFT (Cubic Feet)",
+      "unitHi": "घन फीट (CFT)",
+      "availableUnits": [
+        "CFT (Cubic Feet)",
+        "Tractor Trolley (~100 CFT)",
+        "Truck Load (~400 CFT)"
+      ],
+      "minOrderQty": 100,
+      "stockStatus": "in_stock",
+      "image": "C:/Users/rohii/.gemini/antigravity/brain/7d88a306-1e1a-46ab-8c91-b3225608ce18/sand_balu_1791632895181.jpg",
+      "fallbackImage": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+      "isFeatured": true
+    },
+    {
+      "id": "prod-gitti",
+      "nameEn": "Gitti (Stone Chips - 20mm/10mm)",
+      "nameHi": "गिट्टी (स्टोन चिप्स - 20mm/10mm)",
+      "category": "aggregates",
+      "categoryEn": "Stone Aggregates",
+      "categoryHi": "स्टोन एग्रीगेट्स",
+      "descEn": "Clean, angular blue-grey crushed stone aggregates for durable foundation pillars, beams, and roof slabs.",
+      "descHi": "फाउंडेशन, पिलर, बीम एवं छत ढलाई हेतु 10mm व 20mm मजबूत कोणीय ब्लू-ग्रे स्टोन चिप्स।",
+      "price": 68,
+      "unit": "CFT (Cubic Feet)",
+      "unitHi": "घन फीट (CFT)",
+      "availableUnits": [
+        "CFT (Cubic Feet)",
+        "Tractor Trolley (~100 CFT)",
+        "Truck Load (~400 CFT)"
+      ],
+      "minOrderQty": 100,
+      "stockStatus": "in_stock",
+      "image": "C:/Users/rohii/.gemini/antigravity/brain/7d88a306-1e1a-46ab-8c91-b3225608ce18/stone_chips_gitti_1791632969018.jpg",
+      "fallbackImage": "https://images.unsplash.com/photo-1588880331179-bc9b93a8cb5e?auto=format&fit=crop&w=1200&q=80",
+      "isFeatured": true
+    },
+    {
+      "id": "prod-rod-12mm",
+      "nameEn": "Rod (TMT Steel Bars - 12mm / 10mm / 8mm)",
+      "nameHi": "सरिया (TMT रीइन्फोर्समेंट बार - 12mm/10mm/8mm)",
+      "category": "steel",
+      "categoryEn": "TMT Reinforcement Steel",
+      "categoryHi": "टीएमटी सरिया",
+      "descEn": "High-strength thermo-mechanically treated reinforcement rebar with precision ribs for earthquake-resistant residential construction.",
+      "descHi": "भूकंप-रोधी एवं उच्च तन्यता क्षमता युक्त थर्मो-मैकेनिकली ट्रीटेड टीएमटी सरिया।",
+      "price": 64,
+      "unit": "Kg (Kilogram)",
+      "unitHi": "किलोग्राम (Kg)",
+      "availableUnits": [
+        "Kg (Kilogram)",
+        "Quintal (100 Kg)",
+        "Tonne (1000 Kg)"
+      ],
+      "minOrderQty": 50,
+      "stockStatus": "in_stock",
+      "image": "C:/Users/rohii/.gemini/antigravity/brain/7d88a306-1e1a-46ab-8c91-b3225608ce18/tmt_steel_bars_1791632814743.jpg",
+      "fallbackImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?auto=format&fit=crop&w=1200&q=80",
+      "isFeatured": true
+    },
+    {
+      "id": "prod-cement-ppc",
+      "nameEn": "Cement (High Grade 50 Kg Bag)",
+      "nameHi": "सीमेंट (उच्च ग्रेड 50 किलोग्राम बैग)",
+      "category": "cement",
+      "categoryEn": "Building Cement",
+      "categoryHi": "निर्माण सीमेंट",
+      "descEn": "Premium high-strength Portland cement for structural RCC foundations, plastering, and masonry work.",
+      "descHi": "फाउंडेशन, पिलर, छत ढलाई और चिनाई के लिए टिकाऊ एवं मजबूत पकड़ वाला प्रीमियम सीमेंट बैग।",
+      "price": 385,
+      "unit": "Bag (50 Kg)",
+      "unitHi": "बोरी (50 Kg बैग)",
+      "availableUnits": [
+        "Bag (50 Kg)"
+      ],
+      "minOrderQty": 10,
+      "stockStatus": "in_stock",
+      "image": "C:/Users/rohii/.gemini/antigravity/brain/7d88a306-1e1a-46ab-8c91-b3225608ce18/cement_bags_1791633019922.jpg",
+      "fallbackImage": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=1200&q=80",
+      "isFeatured": true
+    },
+    {
+      "id": "prod-bricks-red",
+      "nameEn": "Bricks (Kiln-Fired Red Clay)",
+      "nameHi": "ईंटें (भट्ठा पकी लाल मिट्टी की ईंटें)",
+      "category": "bricks",
+      "categoryEn": "Masonry Bricks",
+      "categoryHi": "चिनाई ईंटें",
+      "descEn": "First-class solid kiln-fired red clay construction bricks with sharp edges and uniform density for load-bearing walls.",
+      "descHi": "मजबूत दीवार निर्माण हेतु प्रथम श्रेणी की भट्ठा पकी ठोस लाल ईंटें। समान आकार व उच्च घनत्व।",
+      "price": 9.8,
+      "unit": "Piece (नग)",
+      "unitHi": "नग (Piece)",
+      "availableUnits": [
+        "Piece (नग)",
+        "1000 Bricks (हजार)"
+      ],
+      "minOrderQty": 500,
+      "stockStatus": "in_stock",
+      "image": "C:/Users/rohii/.gemini/antigravity/brain/7d88a306-1e1a-46ab-8c91-b3225608ce18/red_bricks_1791633103784.jpg",
+      "fallbackImage": "https://images.unsplash.com/photo-1584463699039-4d6cbdb8f341?auto=format&fit=crop&w=1200&q=80",
+      "isFeatured": true
+    },
+    {
+      "id": "prod-binding-wire",
+      "nameEn": "Binding Wire (सरिया बांधने का तार)",
+      "nameHi": "बाइंडिंग वायर (सरिया बांधने का तार)",
+      "category": "hardware",
+      "categoryEn": "Construction Hardware",
+      "categoryHi": "निर्माण हार्डवेयर",
+      "descEn": "Flexible annealed mild steel binding wire for tying TMT reinforcement rebars securely at construction sites.",
+      "descHi": "निर्माण स्थल पर टीएमटी सरिया को मजबूती से बांधने के लिए लचीला एवं टिकाऊ माइल्ड स्टील तार।",
+      "price": 85,
+      "unit": "Kg (Kilogram)",
+      "unitHi": "किलोग्राम (Kg)",
+      "availableUnits": [
+        "Kg (Kilogram)",
+        "Bundle (25 Kg)"
+      ],
+      "minOrderQty": 5,
+      "stockStatus": "in_stock",
+      "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+      "fallbackImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+      "isFeatured": true
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "MVT-2026-1082",
+      "customer": {
+        "name": "Ramesh Kumar",
+        "phone": "9876543210",
+        "address": "Near Shiv Mandir, Main Road",
+        "village": "Gangpur Siswan",
+        "pin": "841210",
+        "landmark": "Near Shiv Mandir",
+        "notes": "Please deliver before 11 AM if possible"
+      },
+      "deliveryPreference": "site_delivery",
+      "items": [
+        {
+          "productId": "prod-balu",
+          "nameEn": "Balu (Coarse River Sand)",
+          "nameHi": "बालू (मोटी नदी की रेत)",
+          "unit": "CFT (Cubic Feet)",
+          "quantity": 200,
+          "pricePerUnit": 55,
+          "totalPrice": 11000
+        },
+        {
+          "productId": "prod-cement-ppc",
+          "nameEn": "Cement (High Grade 50 Kg Bag)",
+          "nameHi": "सीमेंट (उच्च ग्रेड 50 किलोग्राम बैग)",
+          "unit": "Bag (50 Kg)",
+          "quantity": 25,
+          "pricePerUnit": 385,
+          "totalPrice": 9625
+        }
+      ],
+      "subtotal": 20625,
+      "deliveryFee": 0,
+      "deliveryFeeNote": "Local Free Delivery Zone",
+      "totalAmount": 20625,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "unpaid",
+      "orderStatus": "Processing",
+      "statusHistory": [
+        {
+          "status": "Pending",
+          "note": "Order submitted online by customer",
+          "timestamp": "2026-10-10T09:30:00.000Z"
+        },
+        {
+          "status": "Processing",
+          "note": "Vehicle loading underway at Siswan yard",
+          "timestamp": "2026-10-10T10:15:00.000Z"
+        }
+      ],
+      "createdAt": "2026-10-10T09:30:00.000Z",
+      "updatedAt": "2026-10-10T10:15:00.000Z"
+    }
+  ],
+  "deliveryRules": {
+    "supportedAreas": [
+      {
+        "name": "Gangpur Siswan",
+        "district": "Siwan, Bihar",
+        "pin": "841210",
+        "baseDeliveryFee": 0,
+        "isSupported": true
+      },
+      {
+        "name": "Siswan Block",
+        "district": "Siwan, Bihar",
+        "pin": "841210",
+        "baseDeliveryFee": 150,
+        "isSupported": true
+      },
+      {
+        "name": "Chainpur",
+        "district": "Siwan, Bihar",
+        "pin": "841206",
+        "baseDeliveryFee": 300,
+        "isSupported": true
+      },
+      {
+        "name": "Hasanpura",
+        "district": "Siwan, Bihar",
+        "pin": "841236",
+        "baseDeliveryFee": 350,
+        "isSupported": true
+      },
+      {
+        "name": "Raghunathpur",
+        "district": "Siwan, Bihar",
+        "pin": "841504",
+        "baseDeliveryFee": 400,
+        "isSupported": true
+      },
+      {
+        "name": "Siwan Town",
+        "district": "Siwan, Bihar",
+        "pin": "841226",
+        "baseDeliveryFee": 500,
+        "isSupported": true
+      }
+    ],
+    "pricingPolicy": "distance_and_vehicle_based",
+    "noteEn": "Heavy materials delivery rates in Gangpur Siswan depend on trip volume (Tractor Trolley/Truck) and exact distance.",
+    "noteHi": "गंगपुर सिसवन एवं नजदीकी क्षेत्रों में भारी सामग्री का ढुलाई शुल्क वाहन प्रकार (ट्रॉली/ट्रक) और दूरी के अनुसार तय होता है।"
+  }
+}

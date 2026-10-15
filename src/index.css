@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+Devanagari:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #081321;
+  --charcoal: #111820;
+  --orange: #FF7628;
+  --warmWhite: #F7F7F4;
+  --steel: #A7B0BA;
+  --gold: #D5AA66;
+}
+
+body {
+  background-color: #081321;
+  color: #F7F7F4;
+  overflow-x: hidden;
+  font-family: 'Manrope', 'Inter', 'Noto Sans Devanagari', sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #081321;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #FF7628;
+}
+
+/* Glassmorphism utility */
+.glass-nav {
+  background: rgba(8, 19, 33, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(167, 176, 186, 0.12);
+}
+
+.glass-card {
+  background: rgba(17, 24, 32, 0.72);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(167, 176, 186, 0.14);
+}
+
+.glass-card:hover {
+  border-color: rgba(255, 118, 40, 0.4);
+}
+
+/* Construction Grid */
+.construction-grid {
+  background-size: 50px 50px;
+  background-image: 
+    linear-gradient(to right, rgba(167, 176, 186, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(167, 176, 186, 0.04) 1px, transparent 1px);
+}
+
+/* 3D tilt perspective */
+.perspective-1000 {
+  perspective: 1000px;
+}
+.tilt-card {
+  transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.25s ease;
+  transform-style: preserve-3d;
+}
+
+/* Atmospheric Glow */
+@keyframes pulseGlow {
+  0%, 100% { opacity: 0.3; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.08); }
+}
+.pulse-glow {
+  animation: pulseGlow 5s infinite ease-in-out;
+}
+
+@keyframes floatSlow {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-8px) rotate(1deg); }
+}
+.floating-anim {
+  animation: floatSlow 6s ease-in-out infinite;
+}
